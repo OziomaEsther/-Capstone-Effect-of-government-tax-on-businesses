@@ -64,7 +64,7 @@ Two interactive Power BI dashboards were created:
 - Compares registered vs. unregistered outcomes
 - Encourages formalization with real data
 
->  **[Insert Screenshot Here if Available]**
+> 
 
 ---
 
