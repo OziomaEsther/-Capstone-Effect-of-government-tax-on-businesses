@@ -111,7 +111,7 @@ Two interactive Power BI dashboards were created:
 ##  Author
 
 **Francis Esther Ozioma**  
-[GitHub Profile](https://github.com/YourUsername)  
+[GitHub Profile](https://github.com/OziomaEsther)  
 [LinkedIn Profile](www.linkedin.com/in/francis-esther-ozioma-611ba6230) **
 
 ---
